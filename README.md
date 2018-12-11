@@ -14,3 +14,4 @@
 * [API リファレンス](https://github.com/cloudapidoc/API_Docs_jp/blob/master/rest_api.md#api-reference)<br>
 * [エラーコード](https://github.com/cloudapidoc/API_Docs_jp/blob/master/rest_api.md#%E3%82%A8%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%89)<br>
 
+English API document: https://github.com/cloudapidoc/API_Docs_en
